@@ -1,0 +1,1 @@
+twine upload --repository-url https://test.pypi.org/legacy/ -u __token__ -p pypi-AgENdGVzdC5weXBpLm9yZwIkNDgwZDE3ZTQtZmU4Ny00OTRhLWE1NWMtZWI0YWIxYWFkYjE0AAIqWzMsImEwM2U1NWZjLTFmNGEtNDg2Mi04NjExLTZiMTQwZjkxMWQ4ZSJdAAAGILzRuaBgdT06bVyJMaP9TZ6tbZs9JQB2pmGfe-4-Y0Gp dist/*
